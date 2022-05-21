@@ -10,3 +10,5 @@ Since completing this course, I'm now able to:
 - Describe the HTML5 input element and its attributes.
 - Use JavaScript to enhance the interactivity of a Cloud Application or website.
 - Manage your projects in GitHub.
+
+[View verified certificate.](https://courses.edx.org/certificates/f1c17f3465594c4d93ef465da4667df0)
