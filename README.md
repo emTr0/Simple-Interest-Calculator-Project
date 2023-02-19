@@ -1,6 +1,6 @@
-# Final Project - Introduction to Cloud Development with HTML, CSS, and JavaScript
+# Simple Interest Calculator Project
 
-This was the final project for an IBM/edX course.
+This was the final project for the Introduction to Cloud Development with HTML, CSS, and JavaScript IBM/edX course.
 
 Since completing this course, I'm now able to:
 - Explain the roles of Front-end, back-end, and full stack developers in developing Cloud Applications.
